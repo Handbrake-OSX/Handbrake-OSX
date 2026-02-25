@@ -40,12 +40,6 @@ Content accessibility through subtitle support embeds or burns subtitles adding 
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/325447/m/handbrake-screenshot.png?v=1641916854" alt="Handbrake screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Handbrake distinguishes itself through professional transcoding without costs. Unlike commercial software, free open-source tool serves video conversion requirements comprehensively.
